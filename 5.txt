@@ -2,5 +2,6 @@ This is line 1 of file 5.txt
 This is line 2 of file 5.txt
 Line 3
 Line 4
-Line 5
+Line 5 Line 5 appended
 Line 6
+Line 7 (new)
